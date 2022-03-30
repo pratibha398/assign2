@@ -1,0 +1,1 @@
+created one text file on remote server to perform pull operation on git bash
